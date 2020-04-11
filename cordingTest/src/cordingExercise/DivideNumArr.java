@@ -1,4 +1,4 @@
-package CordingExercise;
+package cordingExercise;
 
 import java.util.ArrayList;
 import java.util.Collections;

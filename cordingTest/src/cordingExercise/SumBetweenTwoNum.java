@@ -1,4 +1,4 @@
-package CordingExercise;
+package cordingExercise;
 
 public class SumBetweenTwoNum {
 

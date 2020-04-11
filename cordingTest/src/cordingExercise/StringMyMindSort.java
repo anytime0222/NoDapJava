@@ -1,4 +1,4 @@
-package CordingExercise;
+package cordingExercise;
 
 import java.util.Collections;
 import java.util.HashMap;
